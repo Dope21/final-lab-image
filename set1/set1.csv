@@ -1,0 +1,11 @@
+Unnamed: 0,Path,Sex,Age,Frontal/Lateral,AP/PA,Atelectasis,Cardiomegaly,Edema,Consolidation,Pleural Effusion
+90000,set1/patient21624/study3/view2_lateral.jpg,Male,75,Lateral,,0,0,0,0,1
+90001,set1/patient21624/study9/view1_frontal.jpg,Male,75,Frontal,AP,1,0,0,1,1
+90002,set1/patient21624/study2/view1_frontal.jpg,Male,75,Frontal,PA,0,0,0,1,1
+90003,set1/patient21624/study2/view2_lateral.jpg,Male,75,Lateral,,0,0,0,1,1
+90004,set1/patient21624/study4/view1_frontal.jpg,Male,75,Frontal,PA,1,0,0,0,1
+90005,set1/patient21624/study4/view2_lateral.jpg,Male,75,Lateral,,1,0,0,0,1
+90006,set1/patient21624/study6/view1_frontal.jpg,Male,75,Frontal,AP,0,0,0,0,1
+90007,set1/patient21624/study11/view1_frontal.jpg,Male,75,Frontal,AP,1,0,0,1,1
+98024,set1/patient23612/study3/view1_frontal.jpg,Male,70,Frontal,AP,1,1,1,1,1
+90000,set1/patient21628/study1/view1_frontal.jpg,Female,88,Frontal,AP,0,0,0,0,0
